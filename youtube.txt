@@ -2,19 +2,9 @@ Lecture 01 Welcome: https://youtu.be/8toocZO7gIo
 Lecture 02 git: https://youtu.be/UFEYE1UehnE 
 Lecture 03 ipynb basics: https://youtu.be/B970bYRQfz8
 Lecture 04 data types: https://youtu.be/VEqoPzBQb8w
-<<<<<<< HEAD
-<<<<<<< HEAD
 Lecture 05 functions and scope: https://youtu.be/XCIloyPWGtI
 Lecture 06 flow control and lists: https://youtu.be/avSfYAaZVdA
-<<<<<<< HEAD
-=======
 Lecture 05 functions and scope: https://youtu.be/XCIloyPWGtI
->>>>>>> dee0842 (added lecture 05 to completed notes, updated youtube.txt)
-=======
 Lecture 07 Lists part 2 and strings: https://youtu.be/ZWPAvt1wluo
 Lecture 08 Dictionaries: https://youtu.be/KfMFVYPNbuU
 Lecture 09 Tuples: https://youtu.be/aE4fJURNLsE
->>>>>>> fedc231 (Added lecture 09 to completed notes, updated youtube.txt)
-=======
-Lecture 05 functions and scope: https://youtu.be/XCIloyPWGtI
->>>>>>> 118a460 (youtube)
